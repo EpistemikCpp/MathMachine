@@ -1,0 +1,30 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: mathMachine - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\User\LOCALS~1\Temp\RSPB8.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Release/" /Fp"Release/mathMachine.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"F:\PROG\Cpp\VisCpp6\mathMachine\mathMachineDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\User\LOCALS~1\Temp\RSPB8.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:no /pdb:"Release/mathMachine.pdb" /machine:I386 /out:"Release/mathMachine.exe"  .\Release\mathMachine.obj .\Release\mathMachineDlg.obj .\Release\StdAfx.obj .\Release\mathMachine.res "
+<h3>Output Window</h3>
+Compiling...
+mathMachineDlg.cpp
+Linking...
+Creating command line "bscmake.exe /nologo /o"Release/mathMachine.bsc"  .\Release\StdAfx.sbr .\Release\mathMachine.sbr .\Release\mathMachineDlg.sbr"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+mathMachine.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
