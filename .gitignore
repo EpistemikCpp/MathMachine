@@ -21,4 +21,5 @@
 *.m?t
 *.DSW
 *.OBR
+*.positions
 RC*
